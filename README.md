@@ -6,4 +6,4 @@ This functions like a regular Scrabble game because it only allows valid tile pl
 
 I am planning going back and improving this code in the future to make it easier to read and more efficient.
 
-The bulk of my code can be reached by going into the src file and then the Scrabble file. There are also other objects with some code too.
+The bulk of my code can be reached by going into the src file and then the Scrabble.java file. There are also other objects (ex. player.java, tileboard.java, etc.) with some code too.
